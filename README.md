@@ -8,4 +8,4 @@
 
 - It's gonna shows the phrase above.
 
-![Phrase of Myself](https://github.com/rafaelso1/myself/assets/images/phrase.png)
+![Phrase of Myself](https://github.com/rafaelso1/myself/blob/main/assets/images/phrase.png)
